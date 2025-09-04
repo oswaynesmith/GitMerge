@@ -1,5 +1,9 @@
 Welcome to ShopEasy.
+<<<<<<< HEAD
 Cart totals are shown in dollars(rounded).
+=======
+Cart totals are shown in cents and displayed as $X.XX.
+>>>>>>> B
 Discounts apply before tax.
 Shipping cost is $5 flat.
 Promo codes are case sensitive.
